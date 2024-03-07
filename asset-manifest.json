@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Signature-Studio/static/js/main.9d7e073d.js",
+    "index.html": "/Signature-Studio/index.html",
+    "main.9d7e073d.js.map": "/Signature-Studio/static/js/main.9d7e073d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9d7e073d.js"
+  ]
+}
