@@ -1,3 +1,7 @@
+
+![Screenshot 2024-05-26 175826](https://github.com/prosanjeev/Signature-Studio/assets/154009697/5fe043c9-6a3e-4f55-9899-15c31ae786e7)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
